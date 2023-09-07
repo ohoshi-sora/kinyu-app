@@ -1,4 +1,4 @@
-# アプリ開発
+# Webアプリ開発
 
 # Getting Started with Create React App
 
